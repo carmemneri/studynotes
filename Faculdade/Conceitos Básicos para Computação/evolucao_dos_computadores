@@ -1,0 +1,303 @@
+1. Evolução dos Computadores
+Primeiras forma de cálculo -
+Primeiro ser humano a CALCULAR: pastor (de ovelhas...)
+Técnica utilizada: “empilhamento” de pedras para controlar a  quantidade de ovelhas de seu rebanho.    Calculus - Lat. Pedra
+Primeira maneira que os seres humanos encontraram para mostrar a
+que quantidade estavam se referindo: uso dos dedos da mão.   Digitus - Lat. Dedo
+
+
+Ábaco - 
+Criado a cerca de 4 mil anos atrás
+Primeiro sistema científico para contar e acumular grandes quantias
+Desenvolvido por mercadores da Mesopotâmia (atual Iraque).
+
+Bastões de Napier - 
+Criados como auxílio à multiplicação (matemático John Napier, inventor dos logaritmos).
+Os bastões de Napier eram um conjunto de 9 bastões, um para cada dígito (1-9), que transformavam a multiplicação de dois números numa soma das tabuadas de cada dígito.
+
+
+Régua de Cálculos - 
+Círculos de proporção* dão origem à régua de cálculo: logaritmos representados por traços e sua divisão e produto obtidos pela adição e subtração de comprimentos.
+
+Círculos de proporção* Representação dos logaritmos de Napier em escalas de madeira, marfim ou outro material (sacerdote inglês William Oughtred)
+
+
+Telégrafo de Chappe - 
+Os irmãos Claude e Ignace Chappe desenvolvem um "aparelho" com um sistema de braços articulados que permitiam a codificação de 196 sinais diferentes.
+
+Com o aparelho começaram a construir postos de transmissão, utilizando sinais ópticos, entre Lille e Paris. Os sinais ópticos "percorriam" 230 km em dois minutos.
+
+
+Máquina de Pascal -  
+Primeiro instrumento moderno de calcular – uma somadora  
+Construído por Blaise Pascal (físico, matemático e filósofo francês).
+Vida útil -Durou quase 200 anos e foi sendo aperfeiçoada por diversos inventores.
+Limitação - Entrada de dados dependia da eficiência da pessoa que estivesse “batendo”os números em suas teclas.
+
+
+Máquina de Leibnitz -
+Gottfried Wilhelm Leibnitz (filósofo e um dos formuladores do cálculo integral) 
+Projetou a primeira máquina de multiplicação e divisão, além de soma e subtração.
+Calculadora de Leibniz (4 operações).
+
+
+Cartões de Jacquard - 
+Jacquard (mecânico francês) desenvolveu os cartões metálicos perfurados para entrada de dados.
+Construiu um tear automático (programável) que lia os cartões e executava as operações na sequência programada (permitia ou não a passagem de agulhas do tear).
+
+
+Calculadora de Charles Xavier (1818) - 
+O francês Charles Xavier Thomas de Colmar inventou uma das primeiras calculadoras
+Permitia efetuar cálculos complexos, por pessoas pouco experientes, num intervalo de tempo reduzido.
+Baseada na Máquina de Pascal e os aperfeiçoamentos de Leibniz, podia efetuar as 4 operações aritméticas.
+
+Máquina Diferencial/Analítica -
+Maquina Diferencial Idealizada para composição de tabelas trigonométricas e de logaritmos para emprego na navegação, pesquisa científica ou engenharia.
+Construída para executar um único algoritmo: método das diferenças finitas usando polinômios.
+Método para disponibilizar informações na saída: resultados perfurados em um prato de cobre.
+Graças à Máquina Diferencial, Babbage conseguiu apoio governamental para criar um modelo mais complexo, a Máquina Analítica (ou Engenho Analítico).
+1834 – Babbage inventou a precursora dos computadores digitais de hoje, a Máquina Analítica.
+Usava a base 10, máquina “mecânica”, trabalhava a vapor.
+Programação sequencial de operações, um procedimento que hoje chamamos de sistema operacional.
+Por seu trabalho na Máquina Analítica, Babbage é considerado um dos pioneiros dos computadores. As máquinas de Babbage nunca foram construídas...
+Máquina Analítica de Babbage: anteviu os passos que até hoje são a base para o funcionamento de um computador, possuindo quatro componentes* :
+Unidade de entrada: alimentação de dados, através de cartões perfurados;
+Unidade de saída: saída impressa e perfurada em cartões;
+Unidade de memória: 1.000 palavras de 50 dígitos DECIMAIS, capaz de armazenar variáveis e resultados.
+Unidade de computação: aceitava operandos da memória, operações – soma, subtração,
+multiplicação e divisão (somava dois desses números em 1 segundo) e enviava o resultado
+para a memória.
+* Termos originais dos 4 componentes: store, mill, input section e output section.
+
+Máquina Analítica: programável em linguagem de montagem simples  software.
+Ada Byron King (Matemática) Compreendeu o funcionamento da Máquina Analítica e escreveu os melhores relatos sobre o processo. 
+Companheira de Babbage, iniciou o ambicioso projeto de construção da Máquina Analítica.
+Criou programas para a máquina - primeira programadora de computador.
+É uma das poucas mulheres a figurar na história do processamento de dados. 
+Babbage e Ada estavam muito além do seu tempo, mas não conseguiram financiamento para construir o seu Computador Analítico, que ficou apenas como uma belíssima ideia no papel - ele nunca foi concluído.
+
+
+Código Morse -
+1837 - Samuel F. B. Morse iniciou o desenvolvimento de um sistema telegráfico que utilizasse a energia elétrica para transmitir sinais à distância. 
+Uma mensagem codificada em Código Morse pode ser transmitida de várias maneiras em pulsos (ou tons) curtos e longos:
+Pulsos elétricos transmitidos em um cabo;
+Ondas mecânicas (som), conhecido por morse acústico;
+Sinais visuais (luzes acendendo e apagando);
+Ondas eletromagnéticas (sinais de rádio).
+
+
+Álgebra de Boole - 
+1854 - Concepção dos fundamentos lógicos para a criação de programas: Lógica Matemática/Álgebra Booleana (matemático George Boole, Inglaterra)
+Estabelecimento de uma forma de armazenamento e processamento de dados utilizando relações binárias: As leis do Pensamento
+
+
+Máquina de Tabulação de Dados - 
+Herman Hollerith (1890) - Cartões de Jacquard + conceito de impulsos elétricos para transmissão de dados (conversão de dados em impulsos magnéticos nos cartões perfurados).
+Construção de um tabulador que utiliza os cartões e torna mais rápido o processamento de estatísticas.
+Sistema reconhecido no recenseamento americano de 1890. Eliminou o trabalho braçal de tabular os milhões de dados que eram coletados.
+Os resultados ficaram prontos em um tempo muito menor que normalmente levaria, gerando enorme economia (redução de 8 para 3 anos).
+Em 1896, Hollerith fundou a Tabulating Machine Company para explorar suas invenções.
+Sua empresa acaba sendo bem sucedida depois de seu computador mecânico vencer uma concorrência do governo Americano e em 1924 torna-se a International Business Machines Corp. (IBM).
+1.  Evolução dos Computadores
+Década de 1930 - 
+Tentativas de substituir as partes mecânicas dos computadores por partes elétricas.
+O uso de relés* era uma forma de fazer essas substituições, mas o alto custo, tamanho físico e baixo desempenho eram as desvantagens desses tipos de máquinas.
+
+Relé*- é um interruptor eletromecânico. A movimentação física deste interruptor ocorre quando a corrente elétrica percorre as espiras da bobina do relé, criando assim um campo magnético que por sua vez atrai a alavanca responsável pela mudança do estado dos contatos.
+
+
+1936-
+As ideias de Babbage foram comprovadas, quando Alan Turing, publicou um artigo, pouco conhecido, On Computable Numbers.
+
+
+1937-
+O computador moderno nasceu das ideias sobre algoritmos, publicadas em 1937 por Alan Turing e dos planos de John von Neumann para uma nova máquina de calcular que pela primeira vez inclui, além de cálculos matemáticos, o processamento lógico de informações.
+
+
+Preocupação de Alan Turing- 
+O que efetivamente a computação poderia fazer? As respostas vieram sob a forma teórica, de uma máquina conhecida como Turing Universal Machine (possibilitava calcular qualquer número e função, de acordo com instruções apropriadas).
+
+Curiosidade-
+Alan Turing foi um dos fundadores da Informática, tendo apresentado contribuições importantes tanto em aspectos teóricos como práticos da mesma. 
+O prêmio Turing Award tem sido concedido pela ACM (Association for Computing Machinery) desde os anos 60 a personalidades que se tenham distinguido no domínio da Informática e Ciência da Computação.
+John von Neumann foi um dos maiores matemáticos de todos os tempos, e as suas contribuições não se limitam aos computadores. Foi o inventor da Teoria dos Jogos, por exemplo.
+
+Máquina de Turing Universal-
+Modelo abstrato de um computador.
+Restringe-se apenas aos aspectos lógicos do seu funcionamento (memória, estados e transições), e não a sua implementação física.
+Numa máquina de Turing pode-se modelar qualquer computador digital. 
+
+Teste de Turing-
+Submeter um operador, fechado em uma sala, a descobrir se quem respondia suas perguntas, introduzidas através do teclado, era um outro homem ou uma máquina.
+Sua intenção era de descobrir se podíamos atribuir à máquina a noção de inteligência.
+
+Década de 1940-
+
+1940-
+(Alan Turing e sua equipe) – construção do primeiro computador operacional para o serviço de inteligência britânico - Heath Robinson.
+
+Heath Robinson - utilizava tecnologia de relés e foi construído especificamente para decifrar mensagens alemãs (durante a 2a Guerra Mundial)cifradas pela máquina Enigma.
+
+Enigma - A máquina era usada para criptografar todas as comunicações militares alemãs. Os aliados, e também os alemães, acreditavam que o código secreto da Enigma era indecifrável.
+
+1941- 
+(2a Guerra Mundial), Konrad Zuse construiu o Z3, usado para codificação de mensagens alemãs.
+
+Z3 - O computador Z3 foi a primeira máquina de computação totalmente automática e programável do mundo. Destruído em bombardeio sobre Berlim deixando poucas informações.
+
+Konrad Zuse - construiu uma série de máquinas de calcular automáticas usando relés eletromecânicos: Z1, Z2 e Z3.
+
+1943-
+As válvulas substituíram os relés e com isso veio a criação da primeira geração de computadores(1943-1954).
+
+Ingleses desenvolvem uma nova máquina para substituir o Heath Robinson – era o Colossus (Alan Turing).
+
+Colossus - foi um computador inglês projetado em Bletchley Park durante a Segunda Guerra Mundial por um grupo liderado por Tommy Flowers, para fazer a criptoanálise de códigos ultrassecretos utilizados pelos nazistas, criados com a máquina Lorenz SZ 40/42
+
+Valvulas - A válvula é um tubo de vidro, similar a uma lâmpada fechada sem ar em seu interior, ou seja, um ambiente fechado a vácuo, e contendo eletrodos, cuja finalidade é controlar o fluxo de elétrons. As válvulas aqueciam bastante e costumavam queimar com facilidade.
+1944-
+Mark I (Howard Aiken): primeiro computador eletromecânico construído.
+
+1945-
+Von Neumann sugeriu que o sistema binário fosse adotado em todos os computadores, e que as instruções e dados fossem compilados e armazenados internamente no computador, na sequência correta de utilização.
+
+O computador processaria os dados de acordo com as necessidades do usuário, ou
+seja, as instruções não viriam pré-determinadas.
+
+Mais tarde, esse computador foi construído recebendo o nome de EDVAC.
+
+EDVAC - foi um dos primeiros computadores eletrônicos. Diferentemente de seu predecessor ENIAC, este utilizava o sistema binário e possuía arquitetura de von Neumann.
+
+ENIAC - Electronic Numerical Integrator and Computer foi o primeiro computador digital eletrônico de grande escala. 
+ 
+
+
+
+1945-
+O primeiro BUG de computador é relatado pela Oficial Naval e matemática Grace Murray Hopper, o BUG era um inseto (“bug”) de verdade dentro do computador Mark II.
+
+O termo "bug" passou a referir todo o tipo de erro de computação.
+
+1945 -
+Memex (Memory Extension) - Vannevar Bush
+Máquina visionária para auxiliar a memória e guardar conhecimento, publicada no artigo Como Podemos Pensar ("As We May Think")
+
+1946 -
+Surgimento do primeiro computador eletrônico ENIAC: Eletronic(al) Numerical Integrator And Computer/Calculator
+
+Primeiro computador digital eletrônico de “grande” escala (Mark I era eletromecânico)
+
+Começou a ser desenvolvido em 1943 durante a 2GM para computar trajetórias táticas que exigissem conhecimento substancial em matemática, mas só se tornou operacional após o final da guerra.
+
+
+
+1947 -
+Presper Eckert e John Mauchly, pioneiros na história da informática, fundaram a Cia. Eckert-Mauchly Computer Corporation, com o objetivo de fabricar máquinas baseadas em suas experiências como o ENIAC e o EDVAC.
+
+1947 - 
+Um grupo de Stanford inventou o Transistor.
+
+Usando elementos semicondutores, os transistores funcionam como chaves, porém são
+menores, mais rápidos, não esquentam, duram mais e consomem menos energia que as
+válvulas.
+
+1947 - tomada uma decisão pioneira: construir um computador para automatizar o trabalho de escritório - o primeiro computador de uso comercial do mundo.
+
+Ideia: a J. Lyons, empresa proprietária de uma rede de casas de chá. Só em 1954, a Lyons
+lança o LEO (Lyons Electronic Office).
+
+1948-
+Manchester Mark I (“baby” machine): torna-se o primeiro computador digital em operação com capacidade de armazenar programas. Usava circuitos a vácuo e à válvula.
+
+Claude Shannon (pai da Teoria da Informação) publica o artigo “A Mathematical Theory of Communication” enfocando o problema de qual é a melhor forma para codificar a informação que um emissor queira transmitir para um receptor.
+
+Richard Hamming - modo de detecção/correção de erros em conjuntos de dados possivelmente transmitidos com ruído introduzido. O Código Hamming é posteriormente usado em sistemas de interrupção e desvio para computadores e telefones.
+
+1948-
+Inventado o primeiro computador comercial - UNIVAC.
+
+John Bardeen, Walter Brattain e William Shockley da Bell Labs patentearam o primeiro
+transistor.
+
+Executava 1.905 operações por segundo e seu preço chegou a US$ 1 milhão.
+
+1949 - 
+Thomas Watson Jr. em uma palestra em um encontro de vendas da IBM prenunciou que todas as partes móveis em máquinas seriam substituídas por componentes eletrônicos em uma década.
+
+1949 -
+Short Order Code, desenvolvido por John Mauchly, é a primeira linguagem de programação de alto nível.
+1949 -
+Surge o EDSAC (Eletronic Delay Storage Automatic Calculator) ou "Calculadora Automática com Armazenamento por Retardo Eletrônico", o qual marcou o último grande passo na série de avanços decisivos inspirados pela guerra: Começou a "Era do Computador"!
+
+
+Após o ENIAC e o EDSAC, o computador entrou na fase de produção industrial, motivado pelos sucessos na resolução de cálculos complicados e pelo consequente aumento do
+interesse na sua utilização.
+
+Na fase industrial, os computadores começaram a ser classificados como de Primeira, Segunda e Terceira Geração, de acordo com a incorporação de progressos tecnológicos.
+
+1950- 
+Primeiro computador comercial de grande escala, UNIVAC (UNIVersal Automatic Computer) americano.
+
+Programado ajustando-se cerca de 6.000 chaves e conectando-se cabos a um painel.
+A E/S de dados era realizada por uma fita metálica de 1/2 polegada de largura e 400 m de comprimento.
+
+Ao todo, venderam-se 46 unidades do UNIVAC Modelo I, que eram normalmente acompanhados de um dispositivo impressor chamado UNIPRINTER, que, sozinho, consumia 14.000 W.
+
+UNIVAC -
+
+Máquina eletrônica de programa armazenado que recebia instruções de uma fita magnética 
+de alta velocidade ao invés de cartões perfurados.
+
+Foi utilizado para prever os resultados de uma eleição presidencial.
+
+1952 -
+A Bell Laboratories desenvolveu o Transistor que passou a ser um componente
+Básico na construção de computadores e apresentava as seguintes vantagens:
+aquecimento mínimo
+pequeno consumo de energia
+mais confiável e veloz do que as válvulas
+
+1952 - Grace Hopper transformou-se em uma pioneira no processamento de dados - criou o primeiro compilador e ajudou a desenvolver duas linguagens de programação (Flow-Matic e COBOL) que tornaram os computadores mais atrativos para comércio.
+
+1953 - Jay Forrester, do MIT, construiu uma memória magnética menor e bem mais rápida, a qual substituía as que usavam válvulas eletrônicas.
+
+1953-
+A International Business Machines (IBM) lança seu primeiro computador digital, o IBM 701.
+
+Primeiro computador da marca comercializado, foram vendidas 19 máquinas em três anos.
+
+1954-
+IBM concluiu o primeiro computador produzido em série, o 650, que era de tamanho médio.
+
+1954-
+Alan Turing publicou o livro "On Computable Numbers" propondo questões significativas sobre programação e inteligência humana. Utilizou suas aplicações de lógica no desenvolvimento do conceito de máquina Universal.
+
+A Texas Instruments anunciou o início da produção dos transistores de silício.
+
+1955-
+Anunciado pelos laboratórios AT&T Bell, o Tradic - primeiro computador transistorizado, possuindo aproximadamente 800 transistores no lugar dos antigos tubos de vácuo, o que lhe permitia trabalhar com menos de 100 Watts.
+
+1956-
+No MIT (Massachussets Institute of Technology) pesquisadores começaram a testar entrada de dados em teclados de computadores.
+No mesmo lugar, começaram os testes com o primeiro computador com transistores o TX-O (Transistorized Experimental computer).
+
+1957-
+Criação de uma nova linguagem de programação: Fortran permitia ao computador executar tarefas repetidas a partir de um conjunto de instruções.
+
+1958-
+Jack Kilby (Texas Instruments) - construção do primeiro circuito integrado, contendo cinco componentes em uma peça de germânio com meia polegada de comprimento e fina como um palito de dente.
+
+1959-
+A série 7000 de mainframes IBM foi a primeira de computadores transistorizados da companhia.
+
+No topo da linha de computadores estava o 7030, também conhecido como STRETCH.
+
+Sete computadores, os quais usavam palavras de 64 bits e outras inovações, foram vendidos para laboratórios nacionais e outros usuários científicos. L.R. Johnson foi o primeiro a usar o termo "arquitetura” para descrever o STRETCH.
+
+
+1960-
+Desenhado o Dataphone, primeiro modem comercial, especificamente para converter sinais digitais de computador em sinais analógicos para a transmissão através de suas redes de longa distância.
+
+Uma equipe liderada por vários fabricantes de computadores e o Pentágono desenvolveram o COBOL, COmmon Business Oriented Language, a primeira linguagem voltada para o uso em programação.
+
+A IBM desenvolve o primeiro aparelho automático de produção em massa de transistores, em Nova York.
